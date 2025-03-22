@@ -229,7 +229,7 @@ https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41d
 http://185.189.225.150:85/BOM/index.m3u8
 #EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-ti
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRka_gP-aCq767J_Qs8Rzrg-hvaP_h9TKiYLw&s" group-title="España",Paramount
 http://185.189.225.150:85/Paramount/index.m3u8
@@ -354,6 +354,11 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",Rtve 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN2- RD
+http://45.228.234.167:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN37 - RD
+http://45.228.234.167:8000/play/a02n/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8c6eC9t17E9Q9BUyBX3P-Ajd1Jm1fxMmgQ&s" group-title="Emisoras",El sol
@@ -398,15 +403,6 @@ http://45.228.234.167:8000/play/a00o/index.m3u8
 http://45.228.234.167:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",- Repretel
 http://45.228.234.167:8000/play/a01u/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN2- RD
-http://45.228.234.167:8000/play/a01p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN37 - RD
-http://45.228.234.167:8000/play/a02n/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Canal 11 - GUA
 http://45.228.234.167:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Canal 11 - HON
