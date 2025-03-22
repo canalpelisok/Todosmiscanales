@@ -398,56 +398,13 @@ http://45.228.234.167:8000/play/a00o/index.m3u8
 http://45.228.234.167:8000/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",- Repretel
 http://45.228.234.167:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",A&E
-http://45.228.234.167:8000/play/a02u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",A&E HD
-http://45.228.234.167:8000/play/a017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AMC
-http://45.228.234.167:8000/play/a056/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AMC HD
-http://45.228.234.167:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AXN
-http://45.228.234.167:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",AXN HD
-http://45.228.234.167:8000/play/a04f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWnHnWenpvU4V5ks5yemStKDtexMUjkvVWg&s" group-title="Premium",AZ click HD
-http://45.228.234.167:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Animal Planet
-http://45.228.234.167:8000/play/a02x/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Animal Planet HD
-http://45.228.234.167:8000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dtC1BvPcFHYtA9Z3EtmZffEYR8RSs1Xq-w&s" group-title="Premium",Antena 3
-http://45.228.234.167:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1029739213145759744/qsvmjcBk_400x400.jpg" group-title="Premium",Antena 7- RD
-http://45.228.234.167:8000/play/a04k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2020/06/26/C374514E-C545-43D0-9482-E0BDF200DB0B//720x540.jpg" group-title="Premium",Atres Series
-http://45.228.234.167:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU2-lqhwzxVzPayBHlMh36EVIwJygcCCe2SA&s" group-title="Premium",Azcorazon
-http://45.228.234.167:8000/play/a04v/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBhccqaLloi3J1ZKu5GtTbunscMO1Mc_WvEA&s" group-title="Premium",Azmundo
-http://45.228.234.167:8000/play/a02q/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",BBC News
-http://45.228.234.167:8000/play/a058/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRF8Y-ulww1OYm_muicIbmdSwH_tTWFma96g&s" group-title="Premium",Baby First
-http://45.228.234.167:8000/play/a01w/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Premium",Baby TV
-http://45.228.234.167:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-I8KDdd968Q29vCIlXLwwweJKUYE7BuMviw&s" group-title="Premium",CARTOON NT HD
-http://45.228.234.167:8000/play/a00t/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN2- RD
 http://45.228.234.167:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",CDN37 - RD
 http://45.228.234.167:8000/play/a02n/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQy0N506mV7N0FgcHKr5ml7s246PJMZhbVQ&s" group-title="Premium",CINECANAL HD
-http://45.228.234.167:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9S_dwsCfddC68maB-9Ns7BWAwH_WeXCDfGg&s" group-title="Premium",CNN Internacional
-http://45.228.234.167:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1200px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Premium",CNN Esp
-http://45.228.234.167:8000/play/a057/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Lista 5 Mexico",Canal 11 - GUA
