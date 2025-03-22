@@ -276,7 +276,8 @@ http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639581.ts
 http://ecuatvip-x.com:8080/live/ConsuelitoGL1./32cc7005e402e7f2/905459.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMl_1uTDc7CwEvPgs7J1U4buVW1qhOu15CQ&s" group-title="Colombia",TELEANTIOQUIA
 http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/749754.ts
-
+#EXTINF:-1 tvg-id="" tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOJad8TiiAXCHTPyKxcEW5uVgaMC5hhGxDGQ&s" group-title="Colombia", Cantina Tv
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -344,8 +345,7 @@ https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41d
 https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",TeleSur Venezuela 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Colombia", Cantina Tv
-https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",Extrema Tv
@@ -366,7 +366,7 @@ https://mdstrm.com/audio/632cb6ecaa9ace684913bf19/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQitbqZvxTCeM0EBWizR1w3JrzMc_HBRwYkNg&s" group-title="Emisoras",La W Radio 
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIOAAC_SC?csegid=10000)
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8uefGK_6b42GLvqp-t4P5y85ZBMg9VviYA&s" group-title="Emisoras"La Voz Del Norte 
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8uefGK_6b42GLvqp-t4P5y85ZBMg9VviYA&s" group-title="Emisoras",La Voz Del Norte 
 https://play10.tikast.com:20021/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5NqrIGu9UXMt2X8xgSbpD480wwuuAVjeLNg&s" group-title="Emisoras",Blu Radio
