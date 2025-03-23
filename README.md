@@ -441,7 +441,7 @@ http://estoestv.com/live/ConsuelitoGL1./32cc7005e402e7f2/639579.ts
 http://ecuatvip-x.com:8080/live/ConsuelitoGL1./32cc7005e402e7f2/639562.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4j8HjMnx6UvsEQngtfRv8TL0HEEP5cJjMBw&s" group-title="Colombia",RCN Directo 
-https://photocalltv.org/pr8g/rcn?ch=directo
+http://190.2.212.209:8050/play/a0lt
 
 
 
